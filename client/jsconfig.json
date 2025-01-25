@@ -1,6 +1,6 @@
 {
   "compilerOptions": {
-    "baseUrl": ".",
+    "baseUrl": "https://mern-ecommerce-2024-master-zn9d.onrender.com",
     "paths": {
       "@/*": ["./src/*"]
     }
